@@ -1,8 +1,21 @@
 <h1 align="center">Hi 👋, I'm aiyinyuede justin</h1>
 <h3 align="center">A passionate Data Scientist from Toronto in Canada</h3>
-<img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
+
+<img align="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
 >
+
+
 - 🎓 I have completed my Bachelor from University of Toronto [https://www.utoronto.ca/](https://www.utoronto.ca/)
+
+- 💻 I’m currently learning **advance NLP along with Deep Learning**
+
+- 🥅 2022 Goals: **Contribute more to Open Source projects**
+
+- 👨‍💻 All of my projects are available at [https://github.com/aiyinyuedejustin](https://github.com/aiyinyuedejustin)
+
+- 💬 Ask me about **ML,DL, Data Science ,NLP**
+
+- 📫 How to reach me **gaoyukun316@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
