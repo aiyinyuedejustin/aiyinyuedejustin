@@ -9,9 +9,7 @@
 
 - 🥅 2022 Goals: **Contribute more to Open Source projects**
 
-- 👨‍💻 All of my projects are available at [https://github.com/aiyinyuedejustin](https://github.com/aiyinyuedejustin)
-
-- 💬 Ask me about **ML,DL, Data Science ,NLP**
+- 👨‍💻 Some of my projects are available at [https://github.com/aiyinyuedejustin](https://github.com/aiyinyuedejustin)
 
 - 📫 How to reach me **gaoyukun316@gmail.com**
 
