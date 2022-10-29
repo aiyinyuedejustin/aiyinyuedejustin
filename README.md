@@ -4,7 +4,7 @@
 <h3 align="center">Imp Note :- I'm Working on some private repos</h3>
 
 
-<img align="center" alt="Coding" width="400" src="https://github.com/NaumanRafique12/project/blob/master/justin.jpg">
+
 - 🎓 I have completed my Bachelor from University of Toronto [https://www.utoronto.ca/]
 
 - 💻 I’m currently learning **advance NLP along with Deep Learning**
