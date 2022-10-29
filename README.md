@@ -3,7 +3,7 @@
 
 
 <img align="center" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif">
-- 🎓 I have completed my Bachelor from University of Toronto [https://www.utoronto.ca/](https://www.utoronto.ca/)
+- 🎓 I have completed my Bachelor from University of Toronto [https://www.utoronto.ca/]
 
 - 💻 I’m currently learning **advance NLP along with Deep Learning**
 
