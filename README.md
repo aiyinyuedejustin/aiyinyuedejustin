@@ -15,7 +15,7 @@
 
 - 📫 How to reach me **gaoyukun316@gmail.com**
 
-- ⚡ Fun fact **I am funny and like Finger Style**
+- ⚡ Fun fact **I am funny and like Fingerstyle Guitar**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
