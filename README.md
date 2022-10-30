@@ -3,7 +3,7 @@
 
 <h3 align="center">Imp Note :- I'm Working on some private repos</h3>
 
-
+<img align="center" alt="Coding" width="400" src="https://encrypted-tbn3.gstatic.com/images?q=tbn:ANd9GcQQlYjG0KxvqRlSRzZ-jQD3zAY1W8xGkd17tkQ8UQtvuurfExZ6">
 
 - 🎓 I have completed my Bachelor from University of Toronto [https://www.utoronto.ca/]
 
