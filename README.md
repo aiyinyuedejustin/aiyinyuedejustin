@@ -13,7 +13,7 @@
 
 - 💻 I’m currently learning **advance NLP along with Deep Learning**
 
-- 🥅 2022 Goals: **Contribute more to Open Source projects**
+- 🥅 2024 Goals: **Contribute more to Open Source projects**
 
 - 👨‍💻 Some of my projects are available at [https://github.com/aiyinyuedejustin](https://github.com/aiyinyuedejustin)
 
